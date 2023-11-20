@@ -12,4 +12,4 @@ https://rajpurkar.github.io/SQuAD-explorer/
 ### Model Performance
 The model is trained only on 1 epoch and the performance is as follows:
 
-Accuracy: 63.5%
+Accuracy: 68.9%
